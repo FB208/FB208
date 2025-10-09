@@ -18,27 +18,37 @@ GITHUB_TOKEN = os.environ.get('GH_TOKEN')
 GITHUB_USERNAME = 'FB208'
 API_BASE = 'https://api.github.com'
 
-# 默认分类（如果仓库没有topics）
-DEFAULT_CATEGORY = '📦 其他项目'
-
-# 分类emoji映射（可以根据topic自动添加合适的emoji）
-CATEGORY_EMOJI = {
-    'tool': '🛠️',
-    'ai': '🤖',
-    'obsidian': '📝',
-    'webdav': '☁️',
-    'browser-extension': '🌐',
-    'blog': '📰',
-    'python': '🐍',
-    'javascript': '💛',
-    'csharp': '💚',
-    'game': '🎮',
-    'security': '🔓',
-    'productivity': '⚡',
-    'backup': '💾',
-    'network': '🌐',
-    'proxy': '🔄',
-    'desktop': '🖥️',
+# Topic对应的Emoji和中文名称映射
+TOPIC_CONFIG = {
+    'tool': {'emoji': '🛠️', 'name': '工具'},
+    'ai': {'emoji': '🤖', 'name': '人工智能'},
+    'obsidian': {'emoji': '📝', 'name': 'Obsidian'},
+    'webdav': {'emoji': '☁️', 'name': 'WebDAV'},
+    'browser-extension': {'emoji': '🌐', 'name': '浏览器扩展'},
+    'blog': {'emoji': '📰', 'name': '博客'},
+    'python': {'emoji': '🐍', 'name': 'Python'},
+    'javascript': {'emoji': '💛', 'name': 'JavaScript'},
+    'csharp': {'emoji': '💚', 'name': 'C#'},
+    'game': {'emoji': '🎮', 'name': '游戏'},
+    'security': {'emoji': '🔓', 'name': '安全研究'},
+    'productivity': {'emoji': '⚡', 'name': '生产力'},
+    'backup': {'emoji': '💾', 'name': '备份'},
+    'network': {'emoji': '🌐', 'name': '网络'},
+    'proxy': {'emoji': '🔄', 'name': '代理'},
+    'desktop': {'emoji': '🖥️', 'name': '桌面应用'},
+    'powershell': {'emoji': '💙', 'name': 'PowerShell'},
+    'vue': {'emoji': '💚', 'name': 'Vue.js'},
+    'rust': {'emoji': '🦀', 'name': 'Rust'},
+    'go': {'emoji': '🐹', 'name': 'Go'},
+    'web': {'emoji': '🌍', 'name': 'Web'},
+    'cli': {'emoji': '⌨️', 'name': '命令行工具'},
+    'api': {'emoji': '🔌', 'name': 'API'},
+    'database': {'emoji': '🗄️', 'name': '数据库'},
+    'docker': {'emoji': '🐳', 'name': 'Docker'},
+    'automation': {'emoji': '🤖', 'name': '自动化'},
+    'markdown': {'emoji': '📝', 'name': 'Markdown'},
+    'education': {'emoji': '📚', 'name': '教育'},
+    'entertainment': {'emoji': '🎭', 'name': '娱乐'},
 }
 
 
@@ -87,21 +97,29 @@ def categorize_repos(repos):
         if repo['name'] == GITHUB_USERNAME:
             continue
         
+        # 获取topics
+        topics = repo.get('topics', [])
+        
+        # 跳过没有topics的仓库
+        if not topics:
+            continue
+        
         # 区分原创和fork
         if repo['fork']:
             forked_repos.append(repo)
         else:
             original_repos.append(repo)
         
-        # 获取分类（使用第一个topic，如果没有则使用默认分类）
-        topics = repo.get('topics', [])
-        category = topics[0] if topics else 'other'
+        # 使用第一个topic作为分类
+        category = topics[0]
         
-        # 添加emoji（如果有映射）
-        category_display = category
-        if category in CATEGORY_EMOJI:
-            category_display = f"{CATEGORY_EMOJI[category]} {category.replace('-', ' ').title()}"
+        # 生成显示名称（emoji + 中文名）
+        if category in TOPIC_CONFIG:
+            emoji = TOPIC_CONFIG[category]['emoji']
+            name = TOPIC_CONFIG[category]['name']
+            category_display = f"{emoji} {name}"
         else:
+            # 如果没有配置，使用默认格式
             category_display = f"📦 {category.replace('-', ' ').title()}"
         
         repo_info = {
@@ -135,9 +153,8 @@ def generate_projects_section(categorized):
     """生成项目分类部分的Markdown"""
     lines = []
     
-    # 按分类名称排序，但把"其他项目"放到最后
-    sorted_categories = sorted(categorized.keys(), 
-                              key=lambda x: (x == DEFAULT_CATEGORY, x))
+    # 按分类名称排序
+    sorted_categories = sorted(categorized.keys())
     
     for category in sorted_categories:
         repos = categorized[category]
