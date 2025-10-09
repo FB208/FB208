@@ -35,9 +35,14 @@
 
 ## 🎯 我的所有项目
 
-> 📊 总计 **46** 个仓库 | 原创 **19** | Fork **26**  
+> 📊 总计 **44** 个仓库 | 原创 **17** | Fork **26**  
 > 🔒 带锁标记的为私有仓库  
-> 🤖 最后更新: 2025-10-09 08:49:21 (UTC+0)
+> 🤖 最后更新: 2025-10-09 09:01:51 (UTC+0)
+
+
+### 📦 Deprecated Repo
+
+- **[CodeSpace](https://github.com/FB208/CodeSpace)** - 把所有非公司产权的代码都整合到一起了
 
 
 ### 📦 Fork
@@ -45,11 +50,13 @@
 - **[NotionNext](https://github.com/FB208/NotionNext)** - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 
 
+### 📦 Frequent Tool
+
+- **[MarkTools](https://github.com/FB208/MarkTools)** - 常用工具
+
+
 ### 📦 Other
 
-- **[CodeSpace](https://github.com/FB208/CodeSpace)** - 把所有非公司产权的代码都整合到一起了
-- **[clash-linux-amd64-v1.2.0](https://github.com/FB208/clash-linux-amd64-v1.2.0)** - 暂无描述
-- **[MarkTools](https://github.com/FB208/MarkTools)** - 暂无描述
 - **[vue2-elm](https://github.com/FB208/vue2-elm)** - 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用
 - **[vue-manage-system](https://github.com/FB208/vue-manage-system)** - The web management system solution based on Vue2 and Element UI.
 - **[mytab](https://github.com/FB208/mytab)** - edge浏览器插件，通过自定义webdav来存储书签，支持历史备份，永不丢失
@@ -81,7 +88,6 @@
 - **[Shortcut-Key-Record](https://github.com/FB208/Shortcut-Key-Record)** - 手动记录快捷键，并根据当前活动窗口智能提醒
 - **[rogsoft](https://github.com/FB208/rogsoft)** - software center for hnd/axhnd/axhnd.675x routers
 - **[bigdudu](https://github.com/FB208/bigdudu)** - 暂无描述
-- **[520](https://github.com/FB208/520)** - 暂无描述
 - **[excel2json](https://github.com/FB208/excel2json)** - 把Excel表转换成json对象，并保存到一个文本文件中。
 - **[waline](https://github.com/FB208/waline)** - 暂无描述
 - **[Common.Utility](https://github.com/FB208/Common.Utility)** - Various helper class
