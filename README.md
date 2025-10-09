@@ -44,18 +44,9 @@
 
 ![FB208's GitHub stats](https://github-readme-stats.vercel.app/api?username=FB208&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FB208&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FB208&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&card_width=445)
 
 </div>
-
----
-
-## 📈 项目概览
-
-- 📦 **总仓库数**: 46+
-- 🌟 **原创项目**: 14+
-- 🍴 **参与项目**: 19+
-- 💡 **主要方向**: 效率工具、AI应用、数据同步
 
 ---
 
