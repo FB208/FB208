@@ -1,0 +1,49 @@
+name: Update README with Repositories
+
+on:
+  # 每周日凌晨2点自动运行
+  schedule:
+    - cron: '0 2 * * 0'
+  
+  # 支持手动触发
+  workflow_dispatch:
+  
+  # 当有push到main/master分支时也可以触发（可选）
+  # push:
+  #   branches:
+  #     - main
+  #     - master
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Update README
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          python scripts/update_readme.py
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update README with latest repositories" && git push)
+
