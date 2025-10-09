@@ -37,7 +37,15 @@
 
 > 📊 总计 **40** 个仓库 | 原创 **16** | Fork **11**  
 > 🔒 带锁标记的为私有仓库  
-> 🤖 最后更新: 2025-10-09 10:35:17 (UTC+0)
+> 🤖 最后更新: 2025-10-09 10:37:33 (UTC+0)
+
+
+### ☁️ 服务
+
+- **[deep-heart-ai-ui](https://github.com/FB208/deep-heart-ai-ui)** 🔒 - 镜心ai-移动版
+- **[lighthouseAI-API](https://github.com/FB208/lighthouseAI-API)** 🔒 - 镜心AI 后端服务
+- **[lighthouseAI-UI](https://github.com/FB208/lighthouseAI-UI)** 🔒 - 镜心AI web前端
+- **[mark_tools_v2](https://github.com/FB208/mark_tools_v2)** 🔒 - 公共服务接口
 
 
 ### 🌐 浏览器扩展
@@ -57,13 +65,6 @@
 - **[obsidian-releases](https://github.com/FB208/obsidian-releases)** - Community plugins list, theme list, and releases of Obsidian.
 
 
-### 📦 Deprecated
-
-- **[CodeSpace](https://github.com/FB208/CodeSpace)** - 把所有非公司产权的代码都整合到一起了
-- **[TOOL](https://github.com/FB208/TOOL)** - 各种辅助工具、类
-- **[youtrack_api](https://github.com/FB208/youtrack_api)** 🔒 - youtrack扩展，在外部分配权重
-
-
 ### 📦 Fork
 
 - **[md2all](https://github.com/FB208/md2all)** - 为防止md2all失效，fork了一份
@@ -77,12 +78,11 @@
 - **[NotionNext](https://github.com/FB208/NotionNext)** - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 
 
-### 📦 Services
+### 🙈 弃用存档
 
-- **[deep-heart-ai-ui](https://github.com/FB208/deep-heart-ai-ui)** 🔒 - 镜心ai-移动版
-- **[lighthouseAI-API](https://github.com/FB208/lighthouseAI-API)** 🔒 - 镜心AI 后端服务
-- **[lighthouseAI-UI](https://github.com/FB208/lighthouseAI-UI)** 🔒 - 镜心AI web前端
-- **[mark_tools_v2](https://github.com/FB208/mark_tools_v2)** 🔒 - 公共服务接口
+- **[CodeSpace](https://github.com/FB208/CodeSpace)** - 把所有非公司产权的代码都整合到一起了
+- **[TOOL](https://github.com/FB208/TOOL)** - 各种辅助工具、类
+- **[youtrack_api](https://github.com/FB208/youtrack_api)** 🔒 - youtrack扩展，在外部分配权重
 
 
 ### 🛠️ 工具
