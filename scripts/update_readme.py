@@ -20,11 +20,15 @@ API_BASE = 'https://api.github.com'
 
 # Topic对应的Emoji和中文名称映射
 TOPIC_CONFIG = {
-    'tool': {'emoji': '🛠️', 'name': '工具'},
+    'fork': {'emoji': '📦', 'name': 'Fork'},
+    'deprecated': {'emoji': '🙈', 'name': '弃用存档'},
+    'services': {'emoji': '☁️', 'name': '服务'},
     'ai': {'emoji': '🤖', 'name': '人工智能'},
     'obsidian': {'emoji': '📝', 'name': 'Obsidian'},
-    'webdav': {'emoji': '☁️', 'name': 'WebDAV'},
+    'tool': {'emoji': '🛠️', 'name': '工具'},
     'browser-extension': {'emoji': '🌐', 'name': '浏览器扩展'},
+    'education': {'emoji': '📚', 'name': '教育'},
+    
     'blog': {'emoji': '📰', 'name': '博客'},
     'python': {'emoji': '🐍', 'name': 'Python'},
     'javascript': {'emoji': '💛', 'name': 'JavaScript'},
@@ -47,7 +51,7 @@ TOPIC_CONFIG = {
     'docker': {'emoji': '🐳', 'name': 'Docker'},
     'automation': {'emoji': '🤖', 'name': '自动化'},
     'markdown': {'emoji': '📝', 'name': 'Markdown'},
-    'education': {'emoji': '📚', 'name': '教育'},
+    
     'entertainment': {'emoji': '🎭', 'name': '娱乐'},
 }
 
