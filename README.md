@@ -35,16 +35,16 @@
 
 ## 🎯 我的所有项目
 
-> 📊 总计 **40** 个仓库 | 原创 **16** | Fork **11**  
+> 📊 总计 **43** 个仓库 | 原创 **16** | Fork **11**  
 > 🔒 带锁标记的为私有仓库  
-> 🤖 最后更新: 2025-10-09 10:37:33 (UTC+0)
+> 🤖 最后更新: 2025-10-12 03:02:18 (UTC+0)
 
 
 ### ☁️ 服务
 
+- **[lighthouseAI-UI](https://github.com/FB208/lighthouseAI-UI)** 🔒 - 镜心AI web前端
 - **[deep-heart-ai-ui](https://github.com/FB208/deep-heart-ai-ui)** 🔒 - 镜心ai-移动版
 - **[lighthouseAI-API](https://github.com/FB208/lighthouseAI-API)** 🔒 - 镜心AI 后端服务
-- **[lighthouseAI-UI](https://github.com/FB208/lighthouseAI-UI)** 🔒 - 镜心AI web前端
 - **[mark_tools_v2](https://github.com/FB208/mark_tools_v2)** 🔒 - 公共服务接口
 
 
