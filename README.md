@@ -35,9 +35,9 @@
 
 ## 🎯 我的所有项目
 
-> 📊 总计 **44** 个仓库 | 原创 **16** | Fork **11**  
+> 📊 总计 **45** 个仓库 | 原创 **17** | Fork **11**  
 > 🔒 带锁标记的为私有仓库  
-> 🤖 最后更新: 2025-11-09 03:14:04 (UTC+0)
+> 🤖 最后更新: 2025-11-16 03:19:07 (UTC+0)
 
 
 ### ☁️ 服务
@@ -88,6 +88,7 @@
 ### 🛠️ 工具
 
 - **[MarkTools](https://github.com/FB208/MarkTools)** - 常用工具
+- **[word-metadata-editor](https://github.com/FB208/word-metadata-editor)** 🔒 - 强制修改word元数据(属性)
 - **[excel2json](https://github.com/FB208/excel2json)** - 把Excel表转换成json对象，并保存到一个文本文件中。
 - **[WordCompare](https://github.com/FB208/WordCompare)** - word比对程序
 - **[mlink-tools](https://github.com/FB208/mlink-tools)** - windows快捷管理软连接
