@@ -108,15 +108,11 @@
 
 ## 📊 GitHub统计
 
-<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FB208&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FB208&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FB208&theme=github_dark&utcOffset=8)
-
-
-</div>
 
 ---
 
