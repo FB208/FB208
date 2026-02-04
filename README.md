@@ -110,7 +110,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FB208&theme=github_dark)
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FB208&theme=github_dark" /></td>
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FB208&theme=github_dark&utcOffset=8" /></td>
