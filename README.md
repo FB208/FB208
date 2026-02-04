@@ -110,12 +110,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FB208&theme=github_dark)
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: none;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FB208&theme=github_dark" /></td>
-    <td style="border: none;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FB208&theme=github_dark&utcOffset=8" /></td>
-  </tr>
-</table>
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FB208&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FB208&theme=github_dark&utcOffset=8" />
+</div>
 
 ---
 
