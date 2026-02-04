@@ -106,12 +106,16 @@
 ---
 
 ## 📊 GitHub统计
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FB208&theme=github_dark)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FB208&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FB208&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FB208&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FB208&theme=github_dark&utcOffset=8)
 <div align="center">
 
-![FB208's GitHub stats](https://github-readme-stats.vercel.app/api?username=FB208&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FB208&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117&card_width=445)
 
 </div>
 
