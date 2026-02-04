@@ -112,7 +112,7 @@
 
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FB208&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FB208&theme=github_dark&utcOffset=8" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FB208&theme=github_dark&utcOffset=8" style="margin-left: 16px;" />
 </div>
 
 ---
