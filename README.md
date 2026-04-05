@@ -37,14 +37,14 @@
 
 > 📊 总计 **57** 个仓库 | 原创 **19** | Fork **12**  
 > 🔒 带锁标记的为私有仓库  
-> 🤖 最后更新: 2026-03-29 04:38:09 (UTC+0)
+> 🤖 最后更新: 2026-04-05 04:37:49 (UTC+0)
 
 
 ### ☁️ 服务
 
 - **[yibiao-simple](https://github.com/FB208/yibiao-simple)** - 开箱即用的AI标书编写工具
-- **[lighthouseAI-API](https://github.com/FB208/lighthouseAI-API)** 🔒 - 镜心AI 后端服务
 - **[deep-heart-ai-ui](https://github.com/FB208/deep-heart-ai-ui)** 🔒 - 镜心ai-移动版
+- **[lighthouseAI-API](https://github.com/FB208/lighthouseAI-API)** 🔒 - 镜心AI 后端服务
 - **[mark_tools_v2](https://github.com/FB208/mark_tools_v2)** 🔒 - 公共服务接口
 - **[lighthouseAI-UI](https://github.com/FB208/lighthouseAI-UI)** 🔒 - 镜心AI web前端
 
