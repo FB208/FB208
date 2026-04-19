@@ -35,18 +35,17 @@
 
 ## 🎯 我的所有项目
 
-> 📊 总计 **57** 个仓库 | 原创 **19** | Fork **12**  
+> 📊 总计 **53** 个仓库 | 原创 **17** | Fork **11**  
 > 🔒 带锁标记的为私有仓库  
-> 🤖 最后更新: 2026-04-12 04:47:33 (UTC+0)
+> 🤖 最后更新: 2026-04-19 04:51:25 (UTC+0)
 
 
 ### ☁️ 服务
 
-- **[yibiao-simple](https://github.com/FB208/yibiao-simple)** - 开箱即用的AI标书编写工具
-- **[deep-heart-ai-ui](https://github.com/FB208/deep-heart-ai-ui)** 🔒 - 镜心ai-移动版
+- **[OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao)** - 开箱即用的AI标书编写工具
 - **[lighthouseAI-API](https://github.com/FB208/lighthouseAI-API)** 🔒 - 镜心AI 后端服务
+- **[deep-heart-ai-ui](https://github.com/FB208/deep-heart-ai-ui)** 🔒 - 镜心ai-移动版
 - **[mark_tools_v2](https://github.com/FB208/mark_tools_v2)** 🔒 - 公共服务接口
-- **[lighthouseAI-UI](https://github.com/FB208/lighthouseAI-UI)** 🔒 - 镜心AI web前端
 
 
 ### 🌐 浏览器扩展
@@ -74,7 +73,6 @@
 - **[winrar-keygen](https://github.com/FB208/winrar-keygen)** - Principle of WinRAR key generation.
 - **[bazi-mcp](https://github.com/FB208/bazi-mcp)** - MCP server for Bazi (八字) information
 - **[lifeRestart](https://github.com/FB208/lifeRestart)** - やり直すんだ。そして、次はうまくやる。
-- **[crush](https://github.com/FB208/crush)** - The glamourous AI coding agent for your favourite terminal 💘
 - **[md](https://github.com/FB208/md)** - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 - **[NotionNext](https://github.com/FB208/NotionNext)** - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 
@@ -82,7 +80,6 @@
 ### 🙈 弃用存档
 
 - **[CodeSpace](https://github.com/FB208/CodeSpace)** - 把所有非公司产权的代码都整合到一起了
-- **[TOOL](https://github.com/FB208/TOOL)** - 各种辅助工具、类
 - **[youtrack_api](https://github.com/FB208/youtrack_api)** 🔒 - youtrack扩展，在外部分配权重
 
 
