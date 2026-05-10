@@ -37,12 +37,12 @@
 
 > 📊 总计 **54** 个仓库 | 原创 **17** | Fork **11**  
 > 🔒 带锁标记的为私有仓库  
-> 🤖 最后更新: 2026-05-03 05:31:07 (UTC+0)
+> 🤖 最后更新: 2026-05-10 05:37:46 (UTC+0)
 
 
 ### ☁️ 服务
 
-- **[OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao)** - 开箱即用的AI标书编写工具，一个基于 AI 的自动化标书生成工具，完全开源免费，欢迎使用
+- **[OpenBidKit_Yibiao](https://github.com/FB208/OpenBidKit_Yibiao)** - 开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用
 - **[deep-heart-ai-ui](https://github.com/FB208/deep-heart-ai-ui)** 🔒 - 镜心ai-移动版
 - **[lighthouseAI-API](https://github.com/FB208/lighthouseAI-API)** 🔒 - 镜心AI 后端服务
 - **[mark_tools_v2](https://github.com/FB208/mark_tools_v2)** 🔒 - 公共服务接口
