@@ -35,9 +35,9 @@
 
 ## 🎯 我的所有项目
 
-> 📊 总计 **54** 个仓库 | 原创 **17** | Fork **11**  
+> 📊 总计 **55** 个仓库 | 原创 **17** | Fork **11**  
 > 🔒 带锁标记的为私有仓库  
-> 🤖 最后更新: 2026-05-10 05:37:46 (UTC+0)
+> 🤖 最后更新: 2026-05-17 05:49:20 (UTC+0)
 
 
 ### ☁️ 服务
@@ -67,6 +67,7 @@
 
 ### 📦 Fork
 
+- **[NotionNext](https://github.com/FB208/NotionNext)** - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 - **[md2all](https://github.com/FB208/md2all)** - 为防止md2all失效，fork了一份
 - **[N_m3u8DL-CLI](https://github.com/FB208/N_m3u8DL-CLI)** - [.NET] m3u8 downloader 开源的命令行m3u8/HLS下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文.
 - **[rogsoft](https://github.com/FB208/rogsoft)** - software center for hnd/axhnd/axhnd.675x routers
@@ -74,7 +75,6 @@
 - **[bazi-mcp](https://github.com/FB208/bazi-mcp)** - MCP server for Bazi (八字) information
 - **[lifeRestart](https://github.com/FB208/lifeRestart)** - やり直すんだ。そして、次はうまくやる。
 - **[md](https://github.com/FB208/md)** - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-- **[NotionNext](https://github.com/FB208/NotionNext)** - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 
 
 ### 🙈 弃用存档
