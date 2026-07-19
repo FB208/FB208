@@ -35,16 +35,14 @@
 
 ## 🎯 我的所有项目
 
-> 📊 总计 **56** 个仓库 | 原创 **17** | Fork **11**  
+> 📊 总计 **47** 个仓库 | 原创 **14** | Fork **7**  
 > 🔒 带锁标记的为私有仓库  
-> 🤖 最后更新: 2026-07-12 05:29:09 (UTC+0)
+> 🤖 最后更新: 2026-07-19 05:22:44 (UTC+0)
 
 
 ### ☁️ 服务
 
 - **[mark_tools_v2](https://github.com/FB208/mark_tools_v2)** 🔒 - 公共服务接口
-- **[deep-heart-ai-ui](https://github.com/FB208/deep-heart-ai-ui)** 🔒 - 镜心ai-移动版
-- **[lighthouseAI-API](https://github.com/FB208/lighthouseAI-API)** 🔒 - 镜心AI 后端服务
 
 
 ### 🌐 浏览器扩展
@@ -61,19 +59,15 @@
 ### 📝 Obsidian
 
 - **[obsidian-simple-ai](https://github.com/FB208/obsidian-simple-ai)** - obsidian上的AI插件都太强大了，同时也太复杂了，我只需要一个像notion一样能帮我编辑文字内容的简单AI
-- **[obsidian-releases](https://github.com/FB208/obsidian-releases)** - Community plugins list, theme list, and releases of Obsidian.
 
 
 ### 📦 Fork
 
 - **[NotionNext](https://github.com/FB208/NotionNext)** - 使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)
 - **[md2all](https://github.com/FB208/md2all)** - 为防止md2all失效，fork了一份
-- **[N_m3u8DL-CLI](https://github.com/FB208/N_m3u8DL-CLI)** - [.NET] m3u8 downloader 开源的命令行m3u8/HLS下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文.
 - **[rogsoft](https://github.com/FB208/rogsoft)** - software center for hnd/axhnd/axhnd.675x routers
-- **[winrar-keygen](https://github.com/FB208/winrar-keygen)** - Principle of WinRAR key generation.
 - **[bazi-mcp](https://github.com/FB208/bazi-mcp)** - MCP server for Bazi (八字) information
 - **[lifeRestart](https://github.com/FB208/lifeRestart)** - やり直すんだ。そして、次はうまくやる。
-- **[md](https://github.com/FB208/md)** - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
 
 
 ### 🙈 弃用存档
@@ -87,7 +81,6 @@
 - **[MarkTools](https://github.com/FB208/MarkTools)** - 常用工具
 - **[quickCV](https://github.com/FB208/quickCV)** - 快捷输入模板管理工具
 - **[jsoneditor_zh_cn](https://github.com/FB208/jsoneditor_zh_cn)** - 一个用于查看、编辑、格式化和验证 JSON 的基于 Web 的工具
-- **[word-metadata-editor](https://github.com/FB208/word-metadata-editor)** 🔒 - 强制修改word元数据(属性)
 - **[excel2json](https://github.com/FB208/excel2json)** - 把Excel表转换成json对象，并保存到一个文本文件中。
 - **[WordCompare](https://github.com/FB208/WordCompare)** - word比对程序
 - **[mlink-tools](https://github.com/FB208/mlink-tools)** - windows快捷管理软连接
